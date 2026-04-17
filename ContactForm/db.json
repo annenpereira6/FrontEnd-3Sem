@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "contatos": [
+    {
+      "nome": "Anne",
+      "sobrenome": "Lima",
+      "email": "anne.lima@gmail.com",
+      "id": "S9MC16HaMi0"
+    },
+    {
+      "nome": "Gustavo",
+      "sobrenome": "Costa",
+      "email": "guga.costa@gmail.com",
+      "id": "3taJyksoPHY"
+    },
+    {
+      "nome": "Milena",
+      "sobrenome": "Mares",
+      "email": "mares.milena@gmail.com",
+      "id": "zVVc8AgcrHw"
+    },
+    {
+      "nome": "Felipe",
+      "sobrenome": "Torolho",
+      "email": "felipe.torolho@gmail.com",
+      "id": "JizQjdHW_cU"
+    },
+    {
+      "nome": "Kaua",
+      "sobrenome": "Fidalgo",
+      "email": "fidalgo.kaua@gmail.com",
+      "id": "ravaplOTIqc"
+    },
+    {
+      "nome": "Paulo",
+      "sobrenome": "Vieira",
+      "email": "paulo.vieira@gmail.com",
+      "id": "BzVKCN7oZGU"
+    }
+  ],
+  "Produto": [
+    {
+      "nome": "Creme",
+      "quantidade": "45",
+      "preco": "15.99",
+      "id": "u-Sp1Sjoy9Q"
+    },
+    {
+      "nome": "Escova",
+      "quantidade": "50",
+      "preco": "20,00",
+      "id": "vYDMMxdvfEM"
+    },
+    {
+      "nome": "Shampoo",
+      "quantidade": "45",
+      "preco": "35.99",
+      "id": "Be_kElxrPYQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
