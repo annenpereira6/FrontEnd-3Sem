@@ -74,6 +74,37 @@
       "IMC": 20.00656932126967,
       "textoSituaco": "Saudavel",
       "id": "uX7aJVyOZBI"
+    },
+    {
+      "nome": "Rafa",
+      "altura": 1.65,
+      "peso": 65,
+      "IMC": 23.875114784205696,
+      "textoSituaco": "Saudavel",
+      "id": "tH0FSNgt-Qk"
+    }
+  ],
+  "calculo": [
+    {
+      "n1": 6,
+      "n2": 7,
+      "op": "soma",
+      "resultado": "13.00",
+      "id": "HE936nCffbE"
+    },
+    {
+      "n1": null,
+      "n2": null,
+      "op": "",
+      "resultado": "Operação Inválida",
+      "id": "1eVQPzARzRc"
+    },
+    {
+      "n1": 9,
+      "n2": 2,
+      "op": "soma",
+      "resultado": "11.00",
+      "id": "7Ym2b5rhk8g"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
