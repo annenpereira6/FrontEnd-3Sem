@@ -1,0 +1,45 @@
+{
+  "produto": [
+    {
+      "nome": "Notebook",
+      "descricao": "computador game extra rapido",
+      "preco": 5000,
+      "quantidade": 50,
+      "imagem": "image.jpg",
+      "id": "QYghOFLQN7M"
+    },
+    {
+      "nome": "Celular",
+      "descricao": "Iphone",
+      "preco": 2500,
+      "quantidade": 30,
+      "imagem": "image.jpg",
+      "id": "FPw6zZZ9SYE"
+    },
+    {
+      "nome": "Chapinha",
+      "descricao": "Chapa maxima",
+      "preco": 220,
+      "quantidade": 67,
+      "imagem": "image.jpg",
+      "id": "YgSIh-zkFzM"
+    },
+    {
+      "nome": "Secadora",
+      "descricao": "Seca tudoo",
+      "preco": 220,
+      "quantidade": 25,
+      "imagem": "image.jpg",
+      "id": "V8Gtq1WxeGg"
+    },
+    {
+      "nome": "Espelho",
+      "descricao": "espelho espelho meu",
+      "preco": 115,
+      "quantidade": 28,
+      "imagem": "image.jpg",
+      "id": "FveQfipotPs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
